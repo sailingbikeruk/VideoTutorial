@@ -1,2 +1,2 @@
 # VideoTutorial
-Files form the GitHub book and Video Tutorials
+Files from the GitHub book and Video Tutorials
